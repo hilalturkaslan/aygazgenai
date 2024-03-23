@@ -1,0 +1,39 @@
+prompt-1 chatgbt
+
+Yazılım geliştirme uzmanı olarak hareket ederek html,css,javascript,bootstrap kullanmalıdır. Bu dosyalar ayrı verilmelidir.  menüler arası geçişli bağlantılar oluşturmalısın bu site mobil uyumlu  olmalıdır . Bu web sitesi oyunların tanıtıldığı bir web sitesi olmalıdır. 
+
+Yapay zeka çağındaki oyunların içeriği ne ile ilgili olucak
+
+The content of games in the age of artificial intelligence (AI) can vary widely depending on the specific application of AI within the gaming industry. Here are some potential themes and features that could be prevalent in games incorporating AI:
+
+1. **Advanced Non-Player Characters (NPCs):** Games could feature NPCs with highly sophisticated AI, capable of realistic behavior, emotions, and decision-making. Players could interact with these NPCs in meaningful ways, leading to dynamic and immersive gameplay experiences.
+
+2. **Procedural Generation:** AI algorithms could be used to procedurally generate game worlds, levels, and content, resulting in virtually limitless possibilities for exploration and replayability. This could lead to more diverse and unpredictable gaming environments.
+
+3. **Adaptive Difficulty:** AI systems could dynamically adjust the difficulty of games based on the player's skill level, preferences, and behavior. This would ensure that games remain challenging and engaging for players of all skill levels without becoming frustratingly difficult or too easy.
+
+4. **Personalized Gameplay:** AI could analyze player behavior and preferences to tailor the gaming experience to individual players. This could include recommending content, adjusting game mechanics, and creating personalized challenges to optimize player enjoyment.
+
+5. **Natural Language Processing (NLP):** Games could incorporate NLP technology to enable more natural and conversational interactions between players and NPCs. This could lead to more immersive storytelling experiences and enhanced player engagement.
+
+6. **AI-Driven Storytelling:** AI algorithms could generate dynamic and branching narratives based on player choices, creating unique storytelling experiences for each playthrough. This could lead to more interactive and personalized storytelling in games.
+
+7. **AI-Generated Content:** AI systems could generate art, music, and other creative content for games, reducing development time and costs while also providing unique and innovative content for players to enjoy.
+
+8. **AI-Assisted Game Design:** Game developers could use AI tools to assist in game design tasks such as level layout, game balancing, and bug detection. This could streamline the game development process and lead to more polished and refined games.
+
+Overall, the content of games in the age of artificial intelligence is likely to be characterized by greater complexity, interactivity, and personalization, leading to more immersive and engaging gaming experiences for players.
+
+css kullanarak <h> </h> yapay zeka renklerine göre renklendir
+
+h5 mor olsun
+
+Bu kodlara dahil ederek web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir. Bunları kullanarak oyun sayfası tasarla
+
+resimleri geçişli ve effektli yap
+
+resimlerin üzerine tıklayınca tam ekran olsun
+
+canva - dall e 
+robotlarla birlikte oyun oynayan çocuklar çiz bunlar uzayda olsunlar
+yapay zeka çağında oyun
